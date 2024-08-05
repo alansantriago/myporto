@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/alansantriago"><img width="80%" src="./assets/header.png" /></a></p>
+<p align="center"><a href="https://github.com/alansantriago"><img width="80%" src="./assets/images/header.png" /></a></p>
 
 <br />
 
